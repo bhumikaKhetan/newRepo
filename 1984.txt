@@ -1,2 +1,3 @@
 It was a bright cold day in April
 It was very cold.
+Hello from git.
